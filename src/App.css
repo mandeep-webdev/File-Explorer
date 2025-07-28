@@ -1,0 +1,7 @@
+.container {
+  margin-left: 5px;
+  cursor: pointer;
+}
+.node span {
+  margin-left: 2px;
+}
